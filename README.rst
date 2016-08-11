@@ -2,7 +2,7 @@ A quick repo to work on implementing layer normalization in keras's LSTM
 
 This is a beginner project for me to help me learn understand keras + theano and tensorflow.
 
-Tools:
+Tools::
 - python 2.7, but trying to keep close to python 3.5 compatible
 - Using keras (https://github.com/fchollet/keras) from git master,
 - git checkout of theano, 
