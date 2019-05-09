@@ -1,5 +1,7 @@
 A quick repo to work on implementing layer normalization in keras's LSTM
 
+It is not recommended to follow this. it is old and incomplete.
+
 This is a beginner project for me to help me learn understand keras + theano and tensorflow.
 
 Tools::
